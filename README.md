@@ -19,7 +19,7 @@ Usage:
 	The conresponding english words will show beneath the text field.
 	Click the REST button to clear the text field for next input.
 
-	*** Digits limit on the integer part is 33 digits.
+	*** Digits limit on the integer part is 39 digits.
 	*** Digits limit on the decimal part is 2 digits. 
 
 Contributing:
